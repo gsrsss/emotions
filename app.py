@@ -3,7 +3,7 @@ from textblob import TextBlob
 from googletrans import Translator
 
 translator = Translator()
-st.title('Analizo tus emociones! ⋆𐙚₊˚⊹♡ (uso de textblob)')
+st.title('Analizo tus emociones! (uso de textblob) ⋆𐙚₊˚⊹♡ ')
 
 st.subheader("Escribe en el campo de texto la frase que deseas analizar!")
 with st.sidebar:
